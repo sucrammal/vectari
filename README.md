@@ -1,5 +1,5 @@
 # vectari
-2024 Data Science Internship
+Building AI and LLM classifiers for bank complaints. 
 
 This repository stores the sandboxes and coding projects I was tasked with during my internship at Vectari. Here are some of the highlights of what I accomplished: 
 - Combined LLMs and traditional NLP techniques to clean CFPB bank complaint data. Benchmarked the effectiveness of various prompts and embeddings.
